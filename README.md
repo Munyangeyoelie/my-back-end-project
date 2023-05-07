@@ -30,4 +30,4 @@ Little Lemon API is licensed under the Apache License, Version 2.0. See the LICE
 
 ## Author
 
-Created by [Mehdi Ait Ouchrif](https://github.com/mehdiaitouchrif).
+Created by [Munyangeyo Elie](https://github.com/Munyangeyoelie).
